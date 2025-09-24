@@ -1,0 +1,141 @@
+{
+  "users": [
+    {
+      "id": "b8V-Viozt9NciXTNy0D4K",
+      "email": "Admin.master@gmail.com",
+      "password": "Admin@321",
+      "isAdmin": true,
+      "username": "Admin",
+      "image": "https://imgs.search.brave.com/pRR2ox-wSFdw_j-kSGGA2UbVM93R3TKg40bBmkJupwQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4z/ZC5pY29uc2NvdXQu/Y29tLzNkL3ByZW1p/dW0vdGh1bWIvbWV0/YWwtYm95LTNkLWls/bHVzdHJhdGlvbi1k/b3dubG9hZC1pbi1w/bmctYmxlbmQtZmJ4/LWdsdGYtZmlsZS1m/b3JtYXRzLS1zdHls/aXN0LXlvdW5nLWF2/YXRhci1wYWNrLXBl/b3BsZS1pbGx1c3Ry/YXRpb25zLTQ3NDMz/NzIucG5n",
+      "cart": [
+        {
+          "productId": "lZtrfYiblf5FAn3gQftLX",
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "id": "xzk-28mu9ml4d8LO1pHRS",
+      "username": "Rashid Khan",
+      "email": "Rashid@khangmail.com",
+      "password": "Rashid@123",
+      "isAdmin": false,
+      "image": "https://imgs.search.brave.com/3ur55BCr44m94B2GgmHv1o-CMbckbruQ-cVLRFljL7M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4z/ZC5pY29uc2NvdXQu/Y29tLzNkL3ByZW1p/dW0vdGh1bWIvYm95/LWF2YXRhci0zZC1p/Y29uLWRvd25sb2Fk/LWluLXBuZy1ibGVu/ZC1mYngtZ2x0Zi1m/aWxlLWZvcm1hdHMt/LW1hbGUteW91bmdz/dGVyLXNjaG9vbGJv/eS1tYW4tdGVlbnMt/cGFjay1wZW9wbGUt/aWNvbnMtNzk0NDA3/MS5wbmc_Zj13ZWJw",
+      "cart": [
+        {
+          "product": {
+            "id": "lZtrfYiblf5FAn3gQftLX",
+            "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png",
+            "category": "Bag",
+            "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+            "price": 2500,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "8Pee0T_88RuPLYiy2zBuQ",
+            "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+            "category": "clothes",
+            "title": "Mens Casual Premium Slim Fit T-Shirts",
+            "price": "2000",
+            "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket."
+          },
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "5uF3GRTFCyoOn8kZWhGNt",
+      "username": "Rohini",
+      "email": "Rohinipatel93@gmail.com",
+      "password": "Rohini046",
+      "isAdmin": false,
+      "image": "https://imgs.search.brave.com/bbCVmgGdvMovxGfAP1I4-FHr9kWwaOBbTKaQgq2jqgo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9wbmctYnJ1bmV0/dGUtZmVtYWxlLXBv/cnRyYWl0LWFkdWx0/LWh1bWFuXzUzODc2/LTg1MTY3My5qcGc_/c2VtdD1haXNfaW5j/b21pbmcmdz03NDAm/cT04MA",
+      "cart": [
+        {
+          "product": {
+            "id": "zPnsC1UJ7c5Jmd_OqrM_C",
+            "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_t.png",
+            "category": "clothes",
+            "title": "MBJ Women's Solid Short Sleeve Boat Neck V",
+            "price": 1500,
+            "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem\",\n"
+          },
+          "quantity": 2
+        },
+        {
+          "product": {
+            "id": "8HLw8XqCFgp95NcM9vzPo",
+            "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png",
+            "category": "clothes",
+            "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+            "price": 900,
+            "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON\",\n"
+          },
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "hKHXx_oKTnMTmzHmO4a-Y",
+      "username": "Rohit",
+      "email": "Rohit45@gmail.com",
+      "password": "Rohit@045",
+      "isAdmin": false,
+      "image": "https://imgs.search.brave.com/pkLv2Asuk0kU2CI6c6w6QbA3BEliooDH_OseTlCjqpQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cG5nZ2FsbGVyeS5j/b20vd3AtY29udGVu/dC91cGxvYWRzL3Jv/aGl0LXNoYXJtYS0w/NC5wbmc",
+      "cart": []
+    }
+  ],
+  "products": [
+    {
+      "id": "lZtrfYiblf5FAn3gQftLX",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png",
+      "category": "Bag",
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 2500,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday"
+    },
+    {
+      "id": "8Pee0T_88RuPLYiy2zBuQ",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+      "category": "clothes",
+      "title": "Mens Casual Premium Slim Fit T-Shirts",
+      "price": "2000",
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket."
+    },
+    {
+      "id": "l0sSnKVRV4c3PRCq1STNB",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+      "category": "clothes",
+      "title": "Men's Cotton Jacket",
+      "price": 2300,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day."
+    },
+    {
+      "id": "Apa1Pscg_qhSANJ6Jm-SM",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_t.png",
+      "category": "electronics",
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "price": 1000,
+      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz"
+    },
+    {
+      "id": "zPnsC1UJ7c5Jmd_OqrM_C",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_t.png",
+      "category": "clothes",
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V",
+      "price": 1500,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem\",\n"
+    },
+    {
+      "id": "8HLw8XqCFgp95NcM9vzPo",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png",
+      "category": "clothes",
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 900,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON\",\n"
+    }
+  ]
+}
