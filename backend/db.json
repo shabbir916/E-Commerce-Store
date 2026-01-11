@@ -75,6 +75,17 @@
             "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON\",\n"
           },
           "quantity": 1
+        },
+        {
+          "product": {
+            "id": "lZtrfYiblf5FAn3gQftLX",
+            "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png",
+            "category": "Bag",
+            "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+            "price": 2500,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday"
+          },
+          "quantity": 1
         }
       ]
     },
