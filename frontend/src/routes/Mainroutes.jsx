@@ -1,6 +1,5 @@
 import { Route, Routes } from "react-router-dom";
 import { lazy } from "react";
-import UnauthWrapper from "./UnauthWrapper";
 
 const Products = lazy(() => import("../pages/Products"));
 const Login = lazy(() => import("../pages/Login"));
@@ -10,6 +9,7 @@ const ProductDetails = lazy(() => import("../pages/admin/ProductDetails"));
 const UserProfile = lazy(() => import("../pages/user/UserProfile"));
 const PageNotFound = lazy(() => import("../pages/PageNotFound"));
 const AuthWrapper = lazy(() => import("./AuthWrapper"));
+const UnauthWrapper = lazy(() => import("./UnauthWrapper"));
 const Cart = lazy(() => import("../pages/Cart"));
 
 const Mainroutes = () => {

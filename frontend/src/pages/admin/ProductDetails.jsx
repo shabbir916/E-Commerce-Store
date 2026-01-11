@@ -3,7 +3,6 @@ import { useNavigate, useParams } from "react-router-dom";
 import { useForm } from "react-hook-form";
 import { useDispatch } from "react-redux";
 import {
-  asyncDeleteProduct,
   asyncUpdateProduct,
 } from "../../store/actions/productActions";
 import {
@@ -23,7 +22,6 @@ const ProductDetails = () => {
 
   const {
     register,
-    reset,
     handleSubmit,
     formState: { errors },
   } = useForm({
