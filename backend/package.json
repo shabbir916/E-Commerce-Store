@@ -1,8 +1,9 @@
 {
   "name": "ecommerce-json-server",
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
-    "start": "npx json-server db.json --host 0.0.0.0 --port 10000"
+    "start": "node server.js"
   },
   "dependencies": {
     "json-server": "^1.0.0-beta.3"
