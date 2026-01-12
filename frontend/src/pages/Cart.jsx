@@ -1,5 +1,5 @@
 import { useDispatch, useSelector } from "react-redux";
-import { asyncUpdateUser } from "../store/actions/UserActions";
+import { asyncUpdateUser } from "../store/actions/userActions";
 import { useNavigate } from "react-router-dom";
 
 const Cart = () => {

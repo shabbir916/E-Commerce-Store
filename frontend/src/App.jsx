@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import bgImg from "./assets/e-com-bg.jpeg";
 import Nav from "./components/Nav";
 import Mainroutes from "./routes/Mainroutes";
-import { asyncCurrentUser } from "./store/actions/UserActions";
+import { asyncCurrentUser } from "./store/actions/userActions";
 import { useDispatch, useSelector } from "react-redux";
 
 const App = () => {

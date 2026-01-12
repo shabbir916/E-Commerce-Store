@@ -8,7 +8,7 @@ import {
 import {
   asyncDeleteuser,
   asyncUpdateUser,
-} from "../../store/actions/UserActions";
+} from "../../store/actions/userActions";
 
 const ProductDetails = () => {
   const { id } = useParams();

@@ -1,7 +1,7 @@
 import { useForm } from "react-hook-form";
 import { nanoid } from "nanoid";
 import { Link, useNavigate } from "react-router-dom";
-import { asyncRegisterUser } from "../store/actions/UserActions";
+import { asyncRegisterUser } from "../store/actions/userActions";
 import { useDispatch } from "react-redux";
 
 // const navigate = useNavigate();

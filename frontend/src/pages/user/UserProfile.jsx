@@ -5,7 +5,7 @@ import {
   asyncDeleteuser,
   asyncLogoutUser,
   asyncUpdateUser,
-} from "../../store/actions/UserActions";
+} from "../../store/actions/userActions";
 
 const UserProfile = () => {
   const { users } = useSelector((state) => state.user);
